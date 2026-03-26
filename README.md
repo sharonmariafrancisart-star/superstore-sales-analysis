@@ -66,10 +66,13 @@ This project demonstrates the ability to:
 
 ## Business Recommendations
 
-## Business Recommendations
-
 - Reduce excessive discounting, as higher discounts are linked to lower profitability  
 - Focus on strong-performing sub-categories like Phones and Chairs  
 - Investigate products that generate high sales but low or negative profit  
 - Improve performance in weaker regions such as Central  
 - Target the Consumer segment for growth opportunities  
+
+## How to Use
+1. Run SQL scripts in order (01 → 04)
+2. Load cleaned data into Power BI
+3. Open .pbix file
